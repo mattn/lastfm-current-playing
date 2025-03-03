@@ -1,0 +1,4 @@
+github.com/ndyakov/go-lastfm v0.0.0-20140518030337-ee40ee958eef h1:dXYGdH/j1zaS1TfpQ2vWGXi7KrQQFQOVpNb+K2aXVWI=
+github.com/ndyakov/go-lastfm v0.0.0-20140518030337-ee40ee958eef/go.mod h1:99Vq9O7sEcYCC6fFH9DTBJgICP4PNRzjhc2gySe85hY=
+github.com/shkh/lastfm-go v0.0.0-20191215035245-89a801c244e0 h1:cgqwZtnR+IQfUYDLJ3Kiy4aE+O/wExTzEIg8xwC4Qfs=
+github.com/shkh/lastfm-go v0.0.0-20191215035245-89a801c244e0/go.mod h1:n3nudMl178cEvD44PaopxH9jhJaQzthSxUzLO5iKMy4=
